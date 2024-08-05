@@ -3,3 +3,5 @@ __pycache__/
 .idea*
 secret.py
 ollama_files*
+.venv
+.envrc
